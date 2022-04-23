@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hello there 👋
-
 I'm Ashuthosh Dasari, Data Analyst and a Machine Learning Engineer.
 
 💻 I'm currently working on Computer Vision
