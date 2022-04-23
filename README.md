@@ -17,7 +17,6 @@ Cloud Services: AWS, Azure, Google Cloud
 Databases - MS Access, MSSQL, MySQL, PostgreSQL, MongoDB
 Visualization Tools - PowerBI, Tableau
 Project Management: MS Project, JIRA, Scrum
-Language: English (IELTS 8.0)
 
 
 A little something about what I do:
